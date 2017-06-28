@@ -1,6 +1,6 @@
 'use strict';
 
-// Audio Source - NOAA : https://www.nefsc.noaa.gov/psb/acoustics/sounds.html
+// Audio Source - AWS Podcast : https://aws.amazon.com/podcasts/aws-podcast/
 var audioData = [
     {
         'title' : 'Humpback Whale',
