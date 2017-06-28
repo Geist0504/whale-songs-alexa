@@ -1,4 +1,4 @@
-# Audio Player Sample Project
+# Whale Songs Alexa Skill
 
 Listen to a variety of different whale songs to learn and appreciate their beautiful, nuanced differences
 
